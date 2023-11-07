@@ -5,7 +5,7 @@ Este repositório contém um exemplo de como usar o `useEffect` do React para au
 ## Tecnologias
 
 * React
-* Typescript
+* Javascript
 
 ## Objetivo
 
@@ -58,3 +58,4 @@ Aqui estão algumas outras ideias para explorar o `useEffect`:
 * Use o `useEffect` para fechar uma conexão com um banco de dados.
 
 Experimente diferentes maneiras de usar o `useEffect` para aprender mais sobre essa ferramenta poderosa.
+
